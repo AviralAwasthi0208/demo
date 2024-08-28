@@ -1,0 +1,25 @@
+ terminal commands
+ 
+ cd is used to change folders
+
+ ls -force is used to see hidden files
+ 
+ 
+ 1) cloning a repository to pc 
+
+ git clone " address of repo"
+ 
+
+ 2) git status  => shows status of our project 
+ 4 types of status:
+    a) untracked - new file that 
+    b) modified - changes are made 
+    c) staged -  ready for commit
+    d) unmodified - umchanged
+
+3) add a file
+
+git add </filename>
+
+4) commit changes 
+git commit -m "message"
