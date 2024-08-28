@@ -20,6 +20,7 @@
 3) add a file
 
 git add </filename>
+git add .  => for all changes made 
 
-4) commit changes 
+4) commit changes => record of change
 git commit -m "message"
