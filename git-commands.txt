@@ -1,6 +1,7 @@
  terminal commands
  
  cd is used to change folders
+ cd .. is used to exit from the folder
 
  ls -force is used to see hidden files
  
@@ -24,3 +25,6 @@ git add .  => for all changes made
 
 4) commit changes => record of change
 git commit -m "message"
+
+5) push  => commit change son github 
+git push origin main
